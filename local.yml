@@ -9,6 +9,7 @@
       - python3
       - python-pip
       - mysql-client-5.7
+      - mysql-server
       - tmux
       - docker
       - docker-compose
